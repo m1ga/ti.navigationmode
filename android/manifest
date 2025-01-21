@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 4
+architectures: arm64-v8a armeabi-v7a x86 x86_64
+description: ti.navigationmode
+author: Michael Gangolf
+license: Specify your license
+copyright: Copyright (c) 2025 by Your Company
+
+# these should not be edited
+name: ti.navigationmode
+moduleid: ti.navigationmode
+guid: 44deee7a-5506-49da-8c8a-fbe3b905e02c
+platform: android
+minsdk: 12.5.1.GA
