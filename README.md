@@ -1,3 +1,9 @@
+# ti.navigationmode
+
+Titanium SDK module to detect Androids system navigation mode 
+
+<img src="assets/img.jpg"/>
+
 ## Example
 
 ```js
